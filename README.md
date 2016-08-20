@@ -1,3 +1,3 @@
-# Hello_World
+# Java_Tricks
 My first repository
-I made this change because I CAN
+containning my Java arsenal of tricks and combos
